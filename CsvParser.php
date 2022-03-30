@@ -70,11 +70,7 @@ class CsvParser
         if (!$this->handle) {
             throw new Exception('Файл не открыт!');
         }
-        while (($data = fgetcsv($this->handle, 0, ";")) !== false) {
-            echo "<pre>";
-            var_dump($data);
-            echo "</pre>";
-    
+        while (($data = fgetcsv($this->handle, 0, ";")) !== false) {    
             if ($this->header) {
                 $data = array_combine($this->header, $data);
             }
@@ -147,7 +143,7 @@ class CsvParser
         $res .= ']'; 
 
         //self::$result = json_encode($res, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-        file_put_contents('json/test.json', $res);
+        file_put_contents('json/сategories.json', $res);
     }
 
 

@@ -1,0 +1,2836 @@
+[
+    {
+    "SIC N": "1110",
+    "Keywords": "Growing of cereals, leguminous crops and oil seeds",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+    },
+    {
+    "SIC N": "1120",
+    "Keywords": "Growing of rice",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+    },
+    {
+    "SIC N": "1130",
+    "Keywords": "Growing of vegetables and melons, roots and tubers",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1140",
+    "Keywords": "Growing of sugar cane",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1160",
+    "Keywords": "Growing of fibre crops",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1190",
+    "Keywords": "Growing of other non-perennial crops",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1210",
+    "Keywords": "Growing of grapes",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1220",
+    "Keywords": "Growing of tropical and subtropical fruits",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1230",
+    "Keywords": "Growing of citrus fruits",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1240",
+    "Keywords": "Growing of pome fruits and stone fruits",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1250",
+    "Keywords": "Growing of other tree and bush fruits and nuts",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1260",
+    "Keywords": "Growing of oleaginous fruits",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1270",
+    "Keywords": "Growing of beverage crops",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1280",
+    "Keywords": "Growing of spices, aromatic, drug and pharmaceutical crops",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1290",
+    "Keywords": "Growing of other perennial crops",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1300",
+    "Keywords": "Plant propagation",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1410",
+    "Keywords": "Raising of dairy cattle",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1420",
+    "Keywords": "Raising of other cattle and buffaloes",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1430",
+    "Keywords": "Raising of horses and other equines",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1440",
+    "Keywords": "Raising of camels and camelids",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1450",
+    "Keywords": "Raising of sheep and goats",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1460",
+    "Keywords": "Raising of swine, pigs",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1470",
+    "Keywords": "Raising of poultry",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1490",
+    "Keywords": "Raising of other animals",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1500",
+    "Keywords": "",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1610",
+    "Keywords": "Crop production",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1621",
+    "Keywords": "Farm animal boarding and care",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1629",
+    "Keywords": "Support activities for animal production",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1630",
+    "Keywords": "Post-harvest crop activities",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1640",
+    "Keywords": "Seed processing for propagation",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "2300",
+    "Keywords": "Gathering of wild growing non-wood products",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "10910",
+    "Keywords": "Manufacture of prepared feeds for farm animals",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "20200",
+    "Keywords": "Pesticides and other agrochemical products",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "28301",
+    "Keywords": "Agricultural tractors",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "28302",
+    "Keywords": "Agricultural and forestry machinery",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "46110",
+    "Keywords": "Agricultural raw materials, livestock, textile raw materials and semi-finished goods",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "46210",
+    "Keywords": "Wholesale of grain, seeds and animal feeds",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "46230",
+    "Keywords": "Wholesale of live animals",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "46610",
+    "Keywords": "Agricultural machinery, equipment and supplies",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "77310",
+    "Keywords": "Renting and leasing of agricultural machinery and equipment",
+    "Subcat": "Agriculture, Farm Supplies, Machinery, Animals"
+},{
+    "SIC N": "1150",
+    "Keywords": "Growing of tobacco",
+    "Subcat": "Tobacco Shops, Vaporizers"
+},{
+    "SIC N": "12000",
+    "Keywords": "Tobacco products",
+    "Subcat": "Tobacco Shops, Vaporizers"
+},{
+    "SIC N": "46350",
+    "Keywords": "",
+    "Subcat": "Tobacco Shops, Vaporizers"
+},{
+    "SIC N": "47260",
+    "Keywords": "",
+    "Subcat": "Tobacco Shops, Vaporizers"
+},{
+    "SIC N": "1700",
+    "Keywords": "Hunting, trapping and related service activities",
+    "Subcat": "Pest Control, Wildlife Removal"
+},{
+    "SIC N": "2100",
+    "Keywords": "Silviculture and other forestry activities",
+    "Subcat": "Timber Suppliers, Forestry Services"
+},{
+    "SIC N": "2200",
+    "Keywords": "Logging",
+    "Subcat": "Timber Suppliers, Forestry Services"
+},{
+    "SIC N": "2400",
+    "Keywords": "Support services to forestry",
+    "Subcat": "Timber Suppliers, Forestry Services"
+},{
+    "SIC N": "16100",
+    "Keywords": "Sawmilling and planing of wood",
+    "Subcat": "Timber Suppliers, Forestry Services"
+},{
+    "SIC N": "16210",
+    "Keywords": "Veneer sheets and wood-based panels",
+    "Subcat": "Timber Suppliers, Forestry Services"
+},{
+    "SIC N": "46130",
+    "Keywords": "Sale of timber",
+    "Subcat": "Timber Suppliers, Forestry Services"
+},{
+    "SIC N": "3110",
+    "Keywords": "Marine fishing",
+    "Subcat": "Seafood"
+},{
+    "SIC N": "3120",
+    "Keywords": "Freshwater fishing",
+    "Subcat": "Seafood"
+},{
+    "SIC N": "3210",
+    "Keywords": "Marine aquaculture",
+    "Subcat": "Seafood"
+},{
+    "SIC N": "3220",
+    "Keywords": "Freshwater aquaculture",
+    "Subcat": "Seafood"
+},{
+    "SIC N": "10200",
+    "Keywords": "Crustaceans and molluscs",
+    "Subcat": "Seafood"
+},{
+    "SIC N": "46380",
+    "Keywords": "Fish, crustaceans, molluscs",
+    "Subcat": "Seafood"
+},{
+    "SIC N": "47230",
+    "Keywords": "",
+    "Subcat": "Seafood"
+},{
+    "SIC N": "5101",
+    "Keywords": "Deep coal mines",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "5102",
+    "Keywords": "Open cast coal working",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "5200",
+    "Keywords": "Mining of lignite",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "6100",
+    "Keywords": "Extraction of crude petroleum",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "6200",
+    "Keywords": "Extraction of natural gas",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "7100",
+    "Keywords": "Mining of iron ores",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "7210",
+    "Keywords": "Mining of uranium and thorium ores",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "7290",
+    "Keywords": "Mining of other non-ferrous metal ores",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "8110",
+    "Keywords": "Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "8120",
+    "Keywords": "Operation of gravel and sand pits, mining of clays and kaolin",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "8910",
+    "Keywords": "Mining of chemical and fertilizer minerals",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "8920",
+    "Keywords": "Extraction of peat",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "8930",
+    "Keywords": "Extraction of salt",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "8990",
+    "Keywords": "Other mining and quarrying",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "9100",
+    "Keywords": "Support activities for petroleum and natural gas mining",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "9900",
+    "Keywords": "Support activities for other mining and quarrying",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "28921",
+    "Keywords": "Machinery for mining",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "46120",
+    "Keywords": "Sale of fuels, ores, metals and industrial chemicals",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "46630",
+    "Keywords": "Mining, construction and civil engineering machinery",
+    "Subcat": "Mining, equipment, underground vehicles"
+},{
+    "SIC N": "10110",
+    "Keywords": "",
+    "Subcat": "Butchers"
+},{
+    "SIC N": "10120",
+    "Keywords": "",
+    "Subcat": "Butchers"
+},{
+    "SIC N": "10130",
+    "Keywords": "Production of meat and poultry meat products",
+    "Subcat": "Butchers"
+},{
+    "SIC N": "46320",
+    "Keywords": "Meat and meat products",
+    "Subcat": "Butchers"
+},{
+    "SIC N": "47220",
+    "Keywords": "",
+    "Subcat": "Butchers"
+},{
+    "SIC N": "10310",
+    "Keywords": "Processing and preserving of potatoes",
+    "Subcat": "Vegetables"
+},{
+    "SIC N": "46310",
+    "Keywords": "Wholesale of fruit and vegetables",
+    "Subcat": "Vegetables"
+},{
+    "SIC N": "47210",
+    "Keywords": "",
+    "Subcat": "Vegetables"
+},{
+    "SIC N": "10320",
+    "Keywords": "Fruit and vegetable juice",
+    "Subcat": "Fruits"
+},{
+    "SIC N": "10390",
+    "Keywords": "",
+    "Subcat": "Fruits"
+},{
+    "SIC N": "10511",
+    "Keywords": "Liquid milk and cream production",
+    "Subcat": "Milk Products"
+},{
+    "SIC N": "10512",
+    "Keywords": "Butter and cheese production",
+    "Subcat": "Milk Products"
+},{
+    "SIC N": "10519",
+    "Keywords": "Manufacture of other milk products",
+    "Subcat": "Milk Products"
+},{
+    "SIC N": "46330",
+    "Keywords": "Eggs, edible oils and fats",
+    "Subcat": "Milk Products"
+},{
+    "SIC N": "10410",
+    "Keywords": "Oils and fats",
+    "Subcat": "Specialty Food"
+},{
+    "SIC N": "10420",
+    "Keywords": "Margarine and similar edible fats",
+    "Subcat": "Specialty Food"
+},{
+    "SIC N": "10611",
+    "Keywords": "Grain milling",
+    "Subcat": "Specialty Food"
+},{
+    "SIC N": "10612",
+    "Keywords": "Breakfast cereals and cereals-based food",
+    "Subcat": "Specialty Food"
+},{
+    "SIC N": "10620",
+    "Keywords": "Starches and starch products",
+    "Subcat": "Specialty Food"
+},{
+    "SIC N": "10710",
+    "Keywords": "Bread and cakes",
+    "Subcat": "Specialty Food"
+},{
+    "SIC N": "10730",
+    "Keywords": "Macaroni, noodles, couscous and similar farinaceous products",
+    "Subcat": "Specialty Food"
+},{
+    "SIC N": "10840",
+    "Keywords": "Condiments and seasonings",
+    "Subcat": "Specialty Food"
+},{
+    "SIC N": "47290",
+    "Keywords": "",
+    "Subcat": "Specialty Food"
+},{
+    "SIC N": "10810",
+    "Keywords": "Manufacture of sugar",
+    "Subcat": "Confectionery, ice cream"
+},{
+    "SIC N": "10720",
+    "Keywords": "Rusks and biscuits, pastry goods and cakes",
+    "Subcat": "Confectionery, ice cream"
+},{
+    "SIC N": "10821",
+    "Keywords": "Cocoa and chocolate confectionery",
+    "Subcat": "Confectionery, ice cream"
+},{
+    "SIC N": "10822",
+    "Keywords": "Sugar confectionery",
+    "Subcat": "Confectionery, ice cream"
+},{
+    "SIC N": "46360",
+    "Keywords": "",
+    "Subcat": "Confectionery, ice cream"
+},{
+    "SIC N": "47240",
+    "Keywords": "",
+    "Subcat": "Confectionery, ice cream"
+},{
+    "SIC N": "10831",
+    "Keywords": "Tea processing",
+    "Subcat": "Coffee & Tea"
+},{
+    "SIC N": "10832",
+    "Keywords": "Production of coffee and coffee substitutes",
+    "Subcat": "Coffee & Tea"
+},{
+    "SIC N": "46370",
+    "Keywords": "",
+    "Subcat": "Coffee & Tea"
+},{
+    "SIC N": "10850",
+    "Keywords": "Prepared meals and dishes",
+    "Subcat": "Catering, Takeaway"
+},{
+    "SIC N": "10860",
+    "Keywords": "Homogenized food preparations and dietetic food",
+    "Subcat": "Catering, Takeaway"
+},{
+    "SIC N": "10890",
+    "Keywords": "Manufacture of other food products",
+    "Subcat": "Catering, Takeaway"
+},{
+    "SIC N": "46170",
+    "Keywords": "Sale of food and beverages",
+    "Subcat": "Catering, Takeaway"
+},{
+    "SIC N": "46390",
+    "Keywords": "",
+    "Subcat": "Catering, Takeaway"
+},{
+    "SIC N": "47110",
+    "Keywords": "",
+    "Subcat": "Catering, Takeaway"
+},{
+    "SIC N": "47810",
+    "Keywords": "",
+    "Subcat": "Catering, Takeaway"
+},{
+    "SIC N": "56103",
+    "Keywords": "Take-away food shops and mobile food stands",
+    "Subcat": "Catering, Takeaway"
+},{
+    "SIC N": "56210",
+    "Keywords": "Event catering activities",
+    "Subcat": "Catering, Takeaway"
+},{
+    "SIC N": "56290",
+    "Keywords": "Other food services",
+    "Subcat": "Catering, Takeaway"
+},{
+    "SIC N": "10920",
+    "Keywords": "Prepared pet foods",
+    "Subcat": "Pet Shops"
+},{
+    "SIC N": "11010",
+    "Keywords": "Distilling, rectifying and blending of spirits",
+    "Subcat": "Alcohol Drinks"
+},{
+    "SIC N": "11020",
+    "Keywords": "Wine from grape",
+    "Subcat": "Alcohol Drinks"
+},{
+    "SIC N": "11030",
+    "Keywords": "Cider and other fruit wines",
+    "Subcat": "Alcohol Drinks"
+},{
+    "SIC N": "11040",
+    "Keywords": "Manufacture of other non-distilled fermented beverages",
+    "Subcat": "Alcohol Drinks"
+},{
+    "SIC N": "11050",
+    "Keywords": "Manufacture of beer",
+    "Subcat": "Alcohol Drinks"
+},{
+    "SIC N": "46342",
+    "Keywords": "",
+    "Subcat": "Alcohol Drinks"
+},{
+    "SIC N": "11060",
+    "Keywords": "Manufacture of malt",
+    "Subcat": "Beverages, Water"
+},{
+    "SIC N": "11070",
+    "Keywords": "Soft drinks, mineral waters, bottled waters",
+    "Subcat": "Beverages, Water"
+},{
+    "SIC N": "46341",
+    "Keywords": "Fruit and vegetable juices, mineral water",
+    "Subcat": "Beverages, Water"
+},{
+    "SIC N": "47250",
+    "Keywords": "",
+    "Subcat": "Beverages, Water"
+},{
+    "SIC N": "13100",
+    "Keywords": "Textile fibres",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13200",
+    "Keywords": "Weaving of textiles",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13300",
+    "Keywords": "Finishing of textiles",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13910",
+    "Keywords": "Knitted and crocheted fabrics",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13923",
+    "Keywords": "Manufacture of household textiles",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13931",
+    "Keywords": "Woven or tufted carpets and rugs",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13939",
+    "Keywords": "",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13940",
+    "Keywords": "Cordage, rope, twine and netting",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13950",
+    "Keywords": "",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13960",
+    "Keywords": "Technical and industrial textiles",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13990",
+    "Keywords": "",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "20600",
+    "Keywords": "",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "28940",
+    "Keywords": "Machinery for textile, apparel and leather production",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "46240",
+    "Keywords": "Hides, skins and leather",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "46410",
+    "Keywords": "",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "46420",
+    "Keywords": "",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "46640",
+    "Keywords": "",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "47510",
+    "Keywords": "",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "47820",
+    "Keywords": "",
+    "Subcat": "Textile Stores, Leather, Fabric Printing"
+},{
+    "SIC N": "13921",
+    "Keywords": "Soft furnishings",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "16230",
+    "Keywords": "carpentry and joinery",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "16240",
+    "Keywords": "wooden containers",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "31010",
+    "Keywords": "Office and shop furniture",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "31020",
+    "Keywords": "Kitchen furniture",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "31030",
+    "Keywords": "Mattresses",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "31090",
+    "Keywords": "Other furniture",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "46150",
+    "Keywords": "Sale of furniture, household goods, hardware and ironmongery",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "46470",
+    "Keywords": "",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "47599",
+    "Keywords": "",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "95240",
+    "Keywords": "Repair of furniture and home furnishings",
+    "Subcat": "Furniture Stores, Manufacturers, Joinery Products"
+},{
+    "SIC N": "13922",
+    "Keywords": "Canvas goods, sacks",
+    "Subcat": "Packaging, Bags, Boxes"
+},{
+    "SIC N": "17211",
+    "Keywords": "Corrugated paper and paperboard, sacks and bags",
+    "Subcat": "Packaging, Bags, Boxes"
+},{
+    "SIC N": "17219",
+    "Keywords": "Paper and paperboard containers",
+    "Subcat": "Packaging, Bags, Boxes"
+},{
+    "SIC N": "22220",
+    "Keywords": "Plastic packing goods",
+    "Subcat": "Packaging, Bags, Boxes"
+},{
+    "SIC N": "25920",
+    "Keywords": "Light metal packaging",
+    "Subcat": "Packaging, Bags, Boxes"
+},{
+    "SIC N": "82920",
+    "Keywords": "Packaging activities",
+    "Subcat": "Packaging, Bags, Boxes"
+},{
+    "SIC N": "14110",
+    "Keywords": "Leather clothes",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "14120",
+    "Keywords": "Workwear",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "14131",
+    "Keywords": "Men's outerwear",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "14132",
+    "Keywords": "Women's outerwear",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "14141",
+    "Keywords": "Men's underwear",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "14142",
+    "Keywords": "Women's underwear",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "14190",
+    "Keywords": "",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "14310",
+    "Keywords": "Knitted and crocheted hosiery",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "14390",
+    "Keywords": "",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "15110",
+    "Keywords": "Tanning and dressing of leather",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "15120",
+    "Keywords": "Luggage, handbags",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "46160",
+    "Keywords": "Sale of textiles, clothing, fur and leather goods",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "47710",
+    "Keywords": "",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "47722",
+    "Keywords": "",
+    "Subcat": "Clothing, Lingerie, Underwear, Bridal, Workwear"
+},{
+    "SIC N": "15200",
+    "Keywords": "",
+    "Subcat": "Shoe Stores, Footwear Manufacturers"
+},{
+    "SIC N": "47721",
+    "Keywords": "",
+    "Subcat": "Shoe Stores, Footwear Manufacturers"
+},{
+    "SIC N": "16220",
+    "Keywords": "Assembled parquet floors",
+    "Subcat": "Flooring services & supplies"
+},{
+    "SIC N": "43330",
+    "Keywords": "Floor and wall covering",
+    "Subcat": "Flooring services & supplies"
+},{
+    "SIC N": "47530",
+    "Keywords": "Carpets, rugs",
+    "Subcat": "Flooring services & supplies"
+},{
+    "SIC N": "16290",
+    "Keywords": "Articles of cork, straw and plaiting materials",
+    "Subcat": "Art Supplies, Crafts Retailers"
+},{
+    "SIC N": "47520",
+    "Keywords": "Hardware, paints and glass",
+    "Subcat": "Art Supplies, Crafts Retailers"
+},{
+    "SIC N": "47781",
+    "Keywords": "Sale in commercial art galleries",
+    "Subcat": "Art Supplies, Crafts Retailers"
+},{
+    "SIC N": "17110",
+    "Keywords": "Manufacture of pulp",
+    "Subcat": "Paper Manufacturers, sales, equipment"
+},{
+    "SIC N": "17120",
+    "Keywords": "Paper and paperboard",
+    "Subcat": "Paper Manufacturers, sales, equipment"
+},{
+    "SIC N": "17230",
+    "Keywords": "Paper stationery",
+    "Subcat": "Paper Manufacturers, sales, equipment"
+},{
+    "SIC N": "17240",
+    "Keywords": "Manufacture of wallpaper",
+    "Subcat": "Paper Manufacturers, sales, equipment"
+},{
+    "SIC N": "17290",
+    "Keywords": "Other articles of paper and paperboard",
+    "Subcat": "Paper Manufacturers, sales, equipment"
+},{
+    "SIC N": "28950",
+    "Keywords": "Machinery for paper and paperboard production",
+    "Subcat": "Paper Manufacturers, sales, equipment"
+},{
+    "SIC N": "17220",
+    "Keywords": "Household and sanitary goods and of toilet requisites",
+    "Subcat": "Cleaning Services, Pressure washing"
+},{
+    "SIC N": "20412",
+    "Keywords": "Cleaning and polishing preparations",
+    "Subcat": "Cleaning Services, Pressure washing"
+},{
+    "SIC N": "81100",
+    "Keywords": "Combined facilities support activities",
+    "Subcat": "Cleaning Services, Pressure washing"
+},{
+    "SIC N": "81210",
+    "Keywords": "",
+    "Subcat": "Cleaning Services, Pressure washing"
+},{
+    "SIC N": "81221",
+    "Keywords": "Window cleaning services",
+    "Subcat": "Cleaning Services, Pressure washing"
+},{
+    "SIC N": "81222",
+    "Keywords": "Specialised cleaning services",
+    "Subcat": "Cleaning Services, Pressure washing"
+},{
+    "SIC N": "81223",
+    "Keywords": "Furnace and chimney cleaning services",
+    "Subcat": "Cleaning Services, Pressure washing"
+},{
+    "SIC N": "81229",
+    "Keywords": "Building and industrial cleaning activities",
+    "Subcat": "Cleaning Services, Pressure washing"
+},{
+    "SIC N": "81291",
+    "Keywords": "Disinfecting and exterminating services",
+    "Subcat": "Cleaning Services, Pressure washing"
+},{
+    "SIC N": "81299",
+    "Keywords": "Other cleaning services",
+    "Subcat": "Cleaning Services, Pressure washing"
+},{
+    "SIC N": "18110",
+    "Keywords": "Printing of newspapers",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "18121",
+    "Keywords": "Printed labels",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "18129",
+    "Keywords": "",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "18130",
+    "Keywords": "Pre-press and pre-media services",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "18140",
+    "Keywords": "Binding and related services",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "20302",
+    "Keywords": "Printing ink",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "58110",
+    "Keywords": "Book publishing",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "58130",
+    "Keywords": "Publishing of newspapers",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "58141",
+    "Keywords": "Publishing of learned journals",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "58142",
+    "Keywords": "Publishing of consumer and business journals",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "58190",
+    "Keywords": "Other publishing activities",
+    "Subcat": "Print Media Services"
+},{
+    "SIC N": "18201",
+    "Keywords": "Reproduction of sound recording",
+    "Subcat": "Video Production, Recording Studios"
+},{
+    "SIC N": "18202",
+    "Keywords": "Reproduction of video recording",
+    "Subcat": "Video Production, Recording Studios"
+},{
+    "SIC N": "18203",
+    "Keywords": "Reproduction of computer media",
+    "Subcat": "Video Production, Recording Studios"
+},{
+    "SIC N": "46431",
+    "Keywords": "",
+    "Subcat": "Video Production, Recording Studios"
+},{
+    "SIC N": "19100",
+    "Keywords": "Coke oven products",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "19201",
+    "Keywords": "Mineral oil refining",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "19209",
+    "Keywords": "Petroleum products",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "20110",
+    "Keywords": "Industrial gas",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "24460",
+    "Keywords": "Processing of nuclear fuel",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "35110",
+    "Keywords": "Production of electricity",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "35120",
+    "Keywords": "Transmission of electricity",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "35130",
+    "Keywords": "Distribution of electricity",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "35140",
+    "Keywords": "Trade of electricity",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "35210",
+    "Keywords": "Manufacture of gas",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "35220",
+    "Keywords": "Distribution of gaseous fuels through mains",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "35230",
+    "Keywords": "Trade of gas through mains",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "46711",
+    "Keywords": "Petroleum and petroleum products",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "46719",
+    "Keywords": "Other fuels and related products",
+    "Subcat": "Oil, Gas & other energy"
+},{
+    "SIC N": "20120",
+    "Keywords": "Dyes and pigments",
+    "Subcat": "Building Supplies"
+},{
+    "SIC N": "20301",
+    "Keywords": "Paints, varnishes and similar coatings, mastics and sealants",
+    "Subcat": "Building Supplies"
+},{
+    "SIC N": "22230",
+    "Keywords": "Builders ware of plastic",
+    "Subcat": "Building Supplies"
+},{
+    "SIC N": "23320",
+    "Keywords": "Bricks, tiles, etc in baked clay",
+    "Subcat": "Building Supplies"
+},{
+    "SIC N": "23910",
+    "Keywords": "Abrasive products",
+    "Subcat": "Building Supplies"
+},{
+    "SIC N": "23990",
+    "Keywords": "Non-metallic mineral products",
+    "Subcat": "Building Supplies"
+},{
+    "SIC N": "46730",
+    "Keywords": "Construction materials and sanitary equipment",
+    "Subcat": "Building Supplies"
+},{
+    "SIC N": "46740",
+    "Keywords": "",
+    "Subcat": "Building Supplies"
+},{
+    "SIC N": "20130",
+    "Keywords": "Inorganic basic chemicals",
+    "Subcat": "Chemical Manufacturers, Suppliers, Laboratories"
+},{
+    "SIC N": "20140",
+    "Keywords": "Organic basic chemicals",
+    "Subcat": "Chemical Manufacturers, Suppliers, Laboratories"
+},{
+    "SIC N": "20150",
+    "Keywords": "Fertilizers and nitrogen compounds",
+    "Subcat": "Chemical Manufacturers, Suppliers, Laboratories"
+},{
+    "SIC N": "20510",
+    "Keywords": "Manufacture of explosives",
+    "Subcat": "Chemical Manufacturers, Suppliers, Laboratories"
+},{
+    "SIC N": "20520",
+    "Keywords": "Manufacture of glues",
+    "Subcat": "Chemical Manufacturers, Suppliers, Laboratories"
+},{
+    "SIC N": "20590",
+    "Keywords": "",
+    "Subcat": "Chemical Manufacturers, Suppliers, Laboratories"
+},{
+    "SIC N": "46750",
+    "Keywords": "Chemical products",
+    "Subcat": "Chemical Manufacturers, Suppliers, Laboratories"
+},{
+    "SIC N": "72110",
+    "Keywords": "Research and experimental development on biotechnology",
+    "Subcat": "Chemical Manufacturers, Suppliers, Laboratories"
+},{
+    "SIC N": "72190",
+    "Keywords": "Research and experimental development on natural sciences and engineering",
+    "Subcat": "Chemical Manufacturers, Suppliers, Laboratories"
+},{
+    "SIC N": "20160",
+    "Keywords": "Plastics in primary forms",
+    "Subcat": "Plastic & Fibreglass Manufacturers"
+},{
+    "SIC N": "22210",
+    "Keywords": "Plastic plates, sheets, tubes and profiles",
+    "Subcat": "Plastic & Fibreglass Manufacturers"
+},{
+    "SIC N": "22290",
+    "Keywords": "",
+    "Subcat": "Plastic & Fibreglass Manufacturers"
+},{
+    "SIC N": "28960",
+    "Keywords": "Plastics and rubber machinery",
+    "Subcat": "Plastic & Fibreglass Manufacturers"
+},{
+    "SIC N": "20170",
+    "Keywords": "Synthetic rubber in primary forms",
+    "Subcat": "Rubber Manufacturers"
+},{
+    "SIC N": "22110",
+    "Keywords": "Manufacture of rubber tyres and tubes",
+    "Subcat": "Rubber Manufacturers"
+},{
+    "SIC N": "22190",
+    "Keywords": "",
+    "Subcat": "Rubber Manufacturers"
+},{
+    "SIC N": "20411",
+    "Keywords": "Soap and detergents",
+    "Subcat": "Cosmetic Products Suppliers"
+},{
+    "SIC N": "20420",
+    "Keywords": "Perfumes and toilet preparations",
+    "Subcat": "Cosmetic Products Suppliers"
+},{
+    "SIC N": "20530",
+    "Keywords": "Essential oils",
+    "Subcat": "Cosmetic Products Suppliers"
+},{
+    "SIC N": "46450",
+    "Keywords": "Perfume and cosmetics",
+    "Subcat": "Cosmetic Products Suppliers"
+},{
+    "SIC N": "47750",
+    "Keywords": "",
+    "Subcat": "Cosmetic Products Suppliers"
+},{
+    "SIC N": "21100",
+    "Keywords": "Basic pharmaceutical products",
+    "Subcat": "Pharmaceutical Companies"
+},{
+    "SIC N": "21200",
+    "Keywords": "Pharmaceutical preparations",
+    "Subcat": "Pharmaceutical Companies"
+},{
+    "SIC N": "46460",
+    "Keywords": "Wholesale of pharmaceutical goods",
+    "Subcat": "Pharmaceutical Companies"
+},{
+    "SIC N": "23110",
+    "Keywords": "Flat glass",
+    "Subcat": "Glass Manufacturers, Bottles, Balustrades"
+},{
+    "SIC N": "23120",
+    "Keywords": "Shaping and processing of flat glass",
+    "Subcat": "Glass Manufacturers, Bottles, Balustrades"
+},{
+    "SIC N": "23130",
+    "Keywords": "Hollow glass",
+    "Subcat": "Glass Manufacturers, Bottles, Balustrades"
+},{
+    "SIC N": "23140",
+    "Keywords": "Glass fibres",
+    "Subcat": "Glass Manufacturers, Bottles, Balustrades"
+},{
+    "SIC N": "23190",
+    "Keywords": "Technical glassware",
+    "Subcat": "Glass Manufacturers, Bottles, Balustrades"
+},{
+    "SIC N": "23200",
+    "Keywords": "Rrefractory products",
+    "Subcat": "Ceramic Manufacturers, Pottery Supplies"
+},{
+    "SIC N": "23310",
+    "Keywords": "Ceramic tiles and flags",
+    "Subcat": "Ceramic Manufacturers, Pottery Supplies"
+},{
+    "SIC N": "23410",
+    "Keywords": "Ceramic household and ornamental articles",
+    "Subcat": "Ceramic Manufacturers, Pottery Supplies"
+},{
+    "SIC N": "23420",
+    "Keywords": "Ceramic sanitary fixtures",
+    "Subcat": "Ceramic Manufacturers, Pottery Supplies"
+},{
+    "SIC N": "23430",
+    "Keywords": "Ceramic insulators and insulating fittings",
+    "Subcat": "Ceramic Manufacturers, Pottery Supplies"
+},{
+    "SIC N": "23440",
+    "Keywords": "",
+    "Subcat": "Ceramic Manufacturers, Pottery Supplies"
+},{
+    "SIC N": "23490",
+    "Keywords": "",
+    "Subcat": "Ceramic Manufacturers, Pottery Supplies"
+},{
+    "SIC N": "28210",
+    "Keywords": "Ovens, furnaces,  furnace burners",
+    "Subcat": "Ceramic Manufacturers, Pottery Supplies"
+},{
+    "SIC N": "23510",
+    "Keywords": "Manufacture of cement",
+    "Subcat": "Concrete, Mortar, Lime, Plaster"
+},{
+    "SIC N": "23520",
+    "Keywords": "Lime and plaster",
+    "Subcat": "Concrete, Mortar, Lime, Plaster"
+},{
+    "SIC N": "23610",
+    "Keywords": "Concrete products for construction purposes",
+    "Subcat": "Concrete, Mortar, Lime, Plaster"
+},{
+    "SIC N": "23620",
+    "Keywords": "Plaster products for construction purposes",
+    "Subcat": "Concrete, Mortar, Lime, Plaster"
+},{
+    "SIC N": "23630",
+    "Keywords": "Ready-mixed concrete",
+    "Subcat": "Concrete, Mortar, Lime, Plaster"
+},{
+    "SIC N": "23640",
+    "Keywords": "Mortars",
+    "Subcat": "Concrete, Mortar, Lime, Plaster"
+},{
+    "SIC N": "23650",
+    "Keywords": "Fibre cement",
+    "Subcat": "Concrete, Mortar, Lime, Plaster"
+},{
+    "SIC N": "23690",
+    "Keywords": "",
+    "Subcat": "Concrete, Mortar, Lime, Plaster"
+},{
+    "SIC N": "23700",
+    "Keywords": "Cutting, shaping and finishing of stone",
+    "Subcat": "Construction & installation works"
+},{
+    "SIC N": "43120",
+    "Keywords": "Site preparation",
+    "Subcat": "Construction & installation works"
+},{
+    "SIC N": "43130",
+    "Keywords": "Test drilling and boring",
+    "Subcat": "Construction & installation works"
+},{
+    "SIC N": "43290",
+    "Keywords": "",
+    "Subcat": "Construction & installation works"
+},{
+    "SIC N": "43991",
+    "Keywords": "Scaffold erection",
+    "Subcat": "Construction & installation works"
+},{
+    "SIC N": "43999",
+    "Keywords": "",
+    "Subcat": "Construction & installation works"
+},{
+    "SIC N": "24100",
+    "Keywords": "Basic iron and steel and of ferro-alloys",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24200",
+    "Keywords": "Tubes, pipes, hollow profiles and related fittings, of steel",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24310",
+    "Keywords": "Cold drawing of bars",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24320",
+    "Keywords": "Cold rolling of narrow strip",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24330",
+    "Keywords": "Cold forming or folding",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24340",
+    "Keywords": "Cold drawing of wire",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24410",
+    "Keywords": "Precious metals production",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24420",
+    "Keywords": "Aluminium production",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24430",
+    "Keywords": "Lead, zinc and tin production",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24440",
+    "Keywords": "Copper production",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24450",
+    "Keywords": "Non-ferrous metal production",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24510",
+    "Keywords": "Casting of iron",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24520",
+    "Keywords": "Casting of steel",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24530",
+    "Keywords": "Casting of light metals",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "24540",
+    "Keywords": "Casting of other non-ferrous metals",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "25110",
+    "Keywords": "Manufacture of metal structures",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "25290",
+    "Keywords": "Tanks, reservoirs and containers of metal",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "25500",
+    "Keywords": "Forging, pressing, stamping and roll-forming of metal",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "25610",
+    "Keywords": "Treatment and coating of metals",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "25620",
+    "Keywords": "",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "25910",
+    "Keywords": "Steel drums and similar containers",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "25930",
+    "Keywords": "Wire products, chain and springs",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "25940",
+    "Keywords": "Fasteners and screw machine products",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "25990",
+    "Keywords": "",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "28410",
+    "Keywords": "Metal forming machinery",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "28910",
+    "Keywords": "Machinery for metallurgy",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "33110",
+    "Keywords": "Repair of fabricated metal products",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "46720",
+    "Keywords": "Wholesale of metals and metal ores",
+    "Subcat": "Metal Manufacturers, Fabrication Services"
+},{
+    "SIC N": "25120",
+    "Keywords": "Doors and windows of metal",
+    "Subcat": "Doors, Windows, Suppliers, Manufacturers"
+},{
+    "SIC N": "25210",
+    "Keywords": "Manufacture of central heating radiators and boilers",
+    "Subcat": "Air Conditioning & Heating Installation"
+},{
+    "SIC N": "28250",
+    "Keywords": "Non-domestic cooling and ventilation equipment",
+    "Subcat": "Air Conditioning & Heating Installation"
+},{
+    "SIC N": "35300",
+    "Keywords": "Steam and air conditioning supply",
+    "Subcat": "Air Conditioning & Heating Installation"
+},{
+    "SIC N": "43220",
+    "Keywords": "Heat and air-conditioning installation",
+    "Subcat": "Air Conditioning & Heating Installation"
+},{
+    "SIC N": "25300",
+    "Keywords": "Steam generators, except central heating hot water boilers",
+    "Subcat": "Pressure washing equipment, Suppliers, Pumps, Motors"
+},{
+    "SIC N": "28120",
+    "Keywords": "Fluid power equipment",
+    "Subcat": "Pressure washing equipment, Suppliers, Pumps, Motors"
+},{
+    "SIC N": "28131",
+    "Keywords": "Pumps",
+    "Subcat": "Pressure washing equipment, Suppliers, Pumps, Motors"
+},{
+    "SIC N": "25710",
+    "Keywords": "Cutlery",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "27510",
+    "Keywords": "Electric domestic appliances",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "27520",
+    "Keywords": "Non-electric domestic appliances",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "27900",
+    "Keywords": "Electrical equipment",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "28930",
+    "Keywords": "Machinery for food, beverage and tobacco processing",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "32910",
+    "Keywords": "Brooms and brushes",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "32990",
+    "Keywords": "",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "46439",
+    "Keywords": "",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "46440",
+    "Keywords": "",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "46499",
+    "Keywords": "",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "47540",
+    "Keywords": "",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "77299",
+    "Keywords": "Renting and leasing of household goods",
+    "Subcat": "Household Appliances, Kitchenware, Electrical equipment"
+},{
+    "SIC N": "25720",
+    "Keywords": "Locks and hinges",
+    "Subcat": "Locksmiths, Key Cutting"
+},{
+    "SIC N": "25730",
+    "Keywords": "Manufacture of tools",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "26513",
+    "Keywords": "Non-electronic measuring and testing equipment, not for industrial process control",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "26514",
+    "Keywords": "Non-electronic industrial process control equipment",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "26701",
+    "Keywords": "Optical precision instruments",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "26800",
+    "Keywords": "Magnetic and optical media",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "27110",
+    "Keywords": "Electric motors, generators and transformers",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "28132",
+    "Keywords": "Compressors",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "28240",
+    "Keywords": "Power-driven hand tools",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "28290",
+    "Keywords": "",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "28490",
+    "Keywords": "",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "28990",
+    "Keywords": "",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "33120",
+    "Keywords": "Repair of machinery",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "33200",
+    "Keywords": "Installation of industrial machinery and equipment",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "46140",
+    "Keywords": "Sale of machinery, industrial equipment",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "46690",
+    "Keywords": "",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "71200",
+    "Keywords": "Technical testing and analysis",
+    "Subcat": "Machinery & Tools Manufacturers"
+},{
+    "SIC N": "26110",
+    "Keywords": "Manufacture of electronic components",
+    "Subcat": "Electronics, Stores, Suppliers, Manufacturers"
+},{
+    "SIC N": "26120",
+    "Keywords": "Electronic boards",
+    "Subcat": "Electronics, Stores, Suppliers, Manufacturers"
+},{
+    "SIC N": "26400",
+    "Keywords": "Consumer electronics",
+    "Subcat": "Electronics, Stores, Suppliers, Manufacturers"
+},{
+    "SIC N": "26511",
+    "Keywords": "Electronic measuring, testing equipment, not for industrial process control",
+    "Subcat": "Electronics, Stores, Suppliers, Manufacturers"
+},{
+    "SIC N": "26512",
+    "Keywords": "Electronic industrial process control equipment",
+    "Subcat": "Electronics, Stores, Suppliers, Manufacturers"
+},{
+    "SIC N": "27320",
+    "Keywords": "Electronic and electric wires and cables",
+    "Subcat": "Electronics, Stores, Suppliers, Manufacturers"
+},{
+    "SIC N": "33130",
+    "Keywords": "Repair of electronic and optical equipment",
+    "Subcat": "Electronics, Stores, Suppliers, Manufacturers"
+},{
+    "SIC N": "46520",
+    "Keywords": "Electronic and telecommunications equipment",
+    "Subcat": "Electronics, Stores, Suppliers, Manufacturers"
+},{
+    "SIC N": "26200",
+    "Keywords": "Computers and peripheral equipment",
+    "Subcat": "Computers, PC Parts, Smartphones, Cell Phones"
+},{
+    "SIC N": "26301",
+    "Keywords": "Telegraph and telephone apparatus and equipment",
+    "Subcat": "Computers, PC Parts, Smartphones, Cell Phones"
+},{
+    "SIC N": "26309",
+    "Keywords": "",
+    "Subcat": "Computers, PC Parts, Smartphones, Cell Phones"
+},{
+    "SIC N": "46510",
+    "Keywords": "Computers, peripheral equipment",
+    "Subcat": "Computers, PC Parts, Smartphones, Cell Phones"
+},{
+    "SIC N": "47410",
+    "Keywords": "",
+    "Subcat": "Computers, PC Parts, Smartphones, Cell Phones"
+},{
+    "SIC N": "47421",
+    "Keywords": "",
+    "Subcat": "Computers, PC Parts, Smartphones, Cell Phones"
+},{
+    "SIC N": "47429",
+    "Keywords": "",
+    "Subcat": "Computers, PC Parts, Smartphones, Cell Phones"
+},{
+    "SIC N": "26520",
+    "Keywords": "Watches and clocks",
+    "Subcat": "Jewelry, Watches"
+},{
+    "SIC N": "32120",
+    "Keywords": "",
+    "Subcat": "Jewelry, Watches"
+},{
+    "SIC N": "32130",
+    "Keywords": "Imitation jewellery",
+    "Subcat": "Jewelry, Watches"
+},{
+    "SIC N": "46480",
+    "Keywords": "",
+    "Subcat": "Jewelry, Watches"
+},{
+    "SIC N": "47770",
+    "Keywords": "",
+    "Subcat": "Jewelry, Watches"
+},{
+    "SIC N": "95250",
+    "Keywords": "Repair of watches, clocks, jewellery",
+    "Subcat": "Jewelry, Watches"
+},{
+    "SIC N": "32500",
+    "Keywords": "Medical and dental instruments and supplies",
+    "Subcat": "Medical equipment, goods for Disabled People"
+},{
+    "SIC N": "47741",
+    "Keywords": "Hearing aids",
+    "Subcat": "Medical equipment, goods for Disabled People"
+},{
+    "SIC N": "47749",
+    "Keywords": "Medical and orthopaedic goods",
+    "Subcat": "Medical equipment, goods for Disabled People"
+},{
+    "SIC N": "26702",
+    "Keywords": "Photographic and cinematographic equipment",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "47430",
+    "Keywords": "Audio and video equipment",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "59111",
+    "Keywords": "Motion picture production activities",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "59112",
+    "Keywords": "Video production activities",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "59113",
+    "Keywords": "Television programme production activities",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "59120",
+    "Keywords": "Video post-production activities",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "59131",
+    "Keywords": "Motion picture distribution activities",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "59132",
+    "Keywords": "Video distribution activities",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "59133",
+    "Keywords": "Television programme distribution activities",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "59140",
+    "Keywords": "Motion picture projection activities",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "59200",
+    "Keywords": "Sound recording and music publishing activities",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "74201",
+    "Keywords": "",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "74202",
+    "Keywords": "",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "74203",
+    "Keywords": "Film processing",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "74209",
+    "Keywords": "Photographic activities",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "77291",
+    "Keywords": "Renting and leasing of media entertainment equipment",
+    "Subcat": "Video Production, Recording Studios, Photographers"
+},{
+    "SIC N": "27120",
+    "Keywords": "Electricity distribution and control apparatus",
+    "Subcat": "Electrical Works"
+},{
+    "SIC N": "27330",
+    "Keywords": "Wiring devices",
+    "Subcat": "Electrical Works"
+},{
+    "SIC N": "42220",
+    "Keywords": "Construction of utility projects for electricity and telecommunications",
+    "Subcat": "Electrical Works"
+},{
+    "SIC N": "43210",
+    "Keywords": "Electrical installation",
+    "Subcat": "Electrical Works"
+},{
+    "SIC N": "27200",
+    "Keywords": "Batteries and accumulators",
+    "Subcat": "Alternative Energy"
+},{
+    "SIC N": "27310",
+    "Keywords": "Fibre optic cables",
+    "Subcat": "Internet providers, Wifi Services"
+},{
+    "SIC N": "27400",
+    "Keywords": "Electric lighting equipment",
+    "Subcat": "Lighting, Retailers, Manufacturers"
+},{
+    "SIC N": "28110",
+    "Keywords": "Engines and turbines",
+    "Subcat": "Transport Manufacturers, Haulage Trucks, Cars"
+},{
+    "SIC N": "28150",
+    "Keywords": "Bearings, gears, gearing and driving elements",
+    "Subcat": "Transport Manufacturers, Haulage Trucks, Cars"
+},{
+    "SIC N": "29100",
+    "Keywords": "Manufacture of motor vehicles",
+    "Subcat": "Transport Manufacturers, Haulage Trucks, Cars"
+},{
+    "SIC N": "29201",
+    "Keywords": "Manufacture of bodies for motor vehicles",
+    "Subcat": "Transport Manufacturers, Haulage Trucks, Cars"
+},{
+    "SIC N": "29310",
+    "Keywords": "Electrical and electronic equipment for motor vehicles and engines",
+    "Subcat": "Transport Manufacturers, Haulage Trucks, Cars"
+},{
+    "SIC N": "29320",
+    "Keywords": "Other parts and accessories for motor vehicles",
+    "Subcat": "Transport Manufacturers, Haulage Trucks, Cars"
+},{
+    "SIC N": "28140",
+    "Keywords": "Taps and valves",
+    "Subcat": "Plumbing Services, Water Connection and Treatment"
+},{
+    "SIC N": "36000",
+    "Keywords": "Water collection, treatment and supply",
+    "Subcat": "Plumbing Services, Water Connection and Treatment"
+},{
+    "SIC N": "37000",
+    "Keywords": "Sewerage",
+    "Subcat": "Plumbing Services, Water Connection and Treatment"
+},{
+    "SIC N": "42210",
+    "Keywords": "Construction of utility projects for fluids",
+    "Subcat": "Plumbing Services, Water Connection and Treatment"
+},{
+    "SIC N": "42910",
+    "Keywords": "Construction of water projects",
+    "Subcat": "Plumbing Services, Water Connection and Treatment"
+},{
+    "SIC N": "28220",
+    "Keywords": "Lifting and handling equipment",
+    "Subcat": "Stairlifts, Elevators"
+},{
+    "SIC N": "28230",
+    "Keywords": "Office machinery and equipment",
+    "Subcat": "Office Equipment, Stationery Shops"
+},{
+    "SIC N": "46650",
+    "Keywords": "Office furniture",
+    "Subcat": "Office Equipment, Stationery Shops"
+},{
+    "SIC N": "46660",
+    "Keywords": "",
+    "Subcat": "Office Equipment, Stationery Shops"
+},{
+    "SIC N": "77330",
+    "Keywords": "Renting and leasing of office machinery and equipment",
+    "Subcat": "Office Equipment, Stationery Shops"
+},{
+    "SIC N": "28922",
+    "Keywords": "Earthmoving equipment",
+    "Subcat": "Earthmoving, Surveyors, Roadworks"
+},{
+    "SIC N": "28923",
+    "Keywords": "Equipment for concrete crushing, screening and roadworks",
+    "Subcat": "Earthmoving, Surveyors, Roadworks"
+},{
+    "SIC N": "42110",
+    "Keywords": "Construction of roads and motorways",
+    "Subcat": "Earthmoving, Surveyors, Roadworks"
+},{
+    "SIC N": "42120",
+    "Keywords": "Construction of railways and underground railways",
+    "Subcat": "Earthmoving, Surveyors, Roadworks"
+},{
+    "SIC N": "29202",
+    "Keywords": "Trailers and semi-trailers",
+    "Subcat": "Vans, Trailers, Trucks"
+},{
+    "SIC N": "77120",
+    "Keywords": "Renting of trucks and other heavy vehicles",
+    "Subcat": "Vans, Trailers, Trucks"
+},{
+    "SIC N": "29203",
+    "Keywords": "Caravans",
+    "Subcat": "Caravans & Motorhomes"
+},{
+    "SIC N": "30110",
+    "Keywords": "Building of ships and floating structures",
+    "Subcat": "Ships & Ferries"
+},{
+    "SIC N": "33150",
+    "Keywords": "Repair and maintenance of ships and boats",
+    "Subcat": "Ships & Ferries"
+},{
+    "SIC N": "50100",
+    "Keywords": "Sea and coastal passenger water transport",
+    "Subcat": "Ships & Ferries"
+},{
+    "SIC N": "50300",
+    "Keywords": "Inland passenger water transport",
+    "Subcat": "Ships & Ferries"
+},{
+    "SIC N": "52220",
+    "Keywords": "Service activities incidental to water transportation",
+    "Subcat": "Ships & Ferries"
+},{
+    "SIC N": "77341",
+    "Keywords": "Renting and leasing of passenger water transport equipment",
+    "Subcat": "Ships & Ferries"
+},{
+    "SIC N": "30120",
+    "Keywords": "Building of pleasure and sporting boats",
+    "Subcat": "Yachts & Boats"
+},{
+    "SIC N": "30200",
+    "Keywords": "Railway locomotives and rolling stock",
+    "Subcat": "Buses, Coaches, Train"
+},{
+    "SIC N": "49100",
+    "Keywords": "Passenger rail transport, interurban",
+    "Subcat": "Buses, Coaches, Train"
+},{
+    "SIC N": "49200",
+    "Keywords": "Freight rail transport",
+    "Subcat": "Buses, Coaches, Train"
+},{
+    "SIC N": "49311",
+    "Keywords": "Urban and suburban passenger railway transportation by underground",
+    "Subcat": "Buses, Coaches, Train"
+},{
+    "SIC N": "49319",
+    "Keywords": "Other urban, suburban passenger land transport",
+    "Subcat": "Buses, Coaches, Train"
+},{
+    "SIC N": "52212",
+    "Keywords": "Facilities at railway stations",
+    "Subcat": "Buses, Coaches, Train"
+},{
+    "SIC N": "52213",
+    "Keywords": "Facilities at bus and coach stations",
+    "Subcat": "Buses, Coaches, Train"
+},{
+    "SIC N": "52219",
+    "Keywords": "Other service activities incidental to land transportation",
+    "Subcat": "Buses, Coaches, Train"
+},{
+    "SIC N": "30300",
+    "Keywords": "Air and spacecraft related machinery",
+    "Subcat": "Air Transport"
+},{
+    "SIC N": "33160",
+    "Keywords": "Repair and maintenance of aircraft and spacecraft",
+    "Subcat": "Air Transport"
+},{
+    "SIC N": "52102",
+    "Keywords": "Operation of warehousing and storage facilities",
+    "Subcat": "Air Transport"
+},{
+    "SIC N": "51101",
+    "Keywords": "Scheduled passenger air transport",
+    "Subcat": "Air Transport"
+},{
+    "SIC N": "51102",
+    "Keywords": "Non-scheduled passenger air transport",
+    "Subcat": "Air Transport"
+},{
+    "SIC N": "51210",
+    "Keywords": "Freight air transport",
+    "Subcat": "Air Transport"
+},{
+    "SIC N": "51220",
+    "Keywords": "Space transport",
+    "Subcat": "Air Transport"
+},{
+    "SIC N": "52230",
+    "Keywords": "",
+    "Subcat": "Air Transport"
+},{
+    "SIC N": "77351",
+    "Keywords": "Renting and leasing of air passenger transport equipment",
+    "Subcat": "Air Transport"
+},{
+    "SIC N": "30910",
+    "Keywords": "Motorcycles",
+    "Subcat": "Motorcycles & Scooters"
+},{
+    "SIC N": "45400",
+    "Keywords": "Sale, maintenance and repair of motorcycles",
+    "Subcat": "Motorcycles & Scooters"
+},{
+    "SIC N": "30920",
+    "Keywords": "Bicycles and invalid carriages",
+    "Subcat": "Bicycles, e-Bikes"
+},{
+    "SIC N": "30990",
+    "Keywords": "Other transport equipment",
+    "Subcat": "Auto Parts, Scrap Yards"
+},{
+    "SIC N": "45310",
+    "Keywords": "Wholesale trade of motor vehicle parts and accessories",
+    "Subcat": "Auto Parts, Scrap Yards"
+},{
+    "SIC N": "45320",
+    "Keywords": "Retail trade of motor vehicle parts and accessories",
+    "Subcat": "Auto Parts, Scrap Yards"
+},{
+    "SIC N": "32110",
+    "Keywords": "Striking of coins",
+    "Subcat": "Antiques Dealers"
+},{
+    "SIC N": "47791",
+    "Keywords": "",
+    "Subcat": "Antiques Dealers"
+},{
+    "SIC N": "32200",
+    "Keywords": "Musical instruments",
+    "Subcat": "Music Schools and Instruments"
+},{
+    "SIC N": "46491",
+    "Keywords": "",
+    "Subcat": "Music Schools and Instruments"
+},{
+    "SIC N": "47591",
+    "Keywords": "",
+    "Subcat": "Music Schools and Instruments"
+},{
+    "SIC N": "32300",
+    "Keywords": "",
+    "Subcat": "Sporting Goods, Sportswear"
+},{
+    "SIC N": "47640",
+    "Keywords": "Sports goods, fishing gear, camping goods, boats and bicycles",
+    "Subcat": "Sporting Goods, Sportswear"
+},{
+    "SIC N": "77210",
+    "Keywords": "Renting and leasing of sports goods",
+    "Subcat": "Sporting Goods, Sportswear"
+},{
+    "SIC N": "32401",
+    "Keywords": "Professional and arcade games and toys",
+    "Subcat": "Toys, Games, Costumes, Formal Wear"
+},{
+    "SIC N": "32409",
+    "Keywords": "Other games and toys",
+    "Subcat": "Toys, Games, Costumes, Formal Wear"
+},{
+    "SIC N": "47650",
+    "Keywords": "",
+    "Subcat": "Toys, Games, Costumes, Formal Wear"
+},{
+    "SIC N": "33140",
+    "Keywords": "Repair of electrical equipment",
+    "Subcat": "Repair shops"
+},{
+    "SIC N": "33190",
+    "Keywords": "Repair of other equipment",
+    "Subcat": "Repair shops"
+},{
+    "SIC N": "95110",
+    "Keywords": "Repair of computers and peripheral equipment",
+    "Subcat": "Repair shops"
+},{
+    "SIC N": "95120",
+    "Keywords": "Repair of communication equipment",
+    "Subcat": "Repair shops"
+},{
+    "SIC N": "95210",
+    "Keywords": "Repair of consumer electronics",
+    "Subcat": "Repair shops"
+},{
+    "SIC N": "95220",
+    "Keywords": "Repair of household appliances, home and garden equipment",
+    "Subcat": "Repair shops"
+},{
+    "SIC N": "95230",
+    "Keywords": "Repair of footwear",
+    "Subcat": "Repair shops"
+},{
+    "SIC N": "95290",
+    "Keywords": "Repair of personal and household goods",
+    "Subcat": "Repair shops"
+},{
+    "SIC N": "33170",
+    "Keywords": "Repair and maintenance of other transport equipment",
+    "Subcat": "Auto repair shops"
+},{
+    "SIC N": "45200",
+    "Keywords": "Maintenance and repair of motor vehicles",
+    "Subcat": "Auto repair shops"
+},{
+    "SIC N": "38110",
+    "Keywords": "Collection of non-hazardous waste",
+    "Subcat": "Demolition Services, Disposal"
+},{
+    "SIC N": "38120",
+    "Keywords": "Collection of hazardous waste",
+    "Subcat": "Demolition Services, Disposal"
+},{
+    "SIC N": "38210",
+    "Keywords": "Treatment and disposal of non-hazardous waste",
+    "Subcat": "Demolition Services, Disposal"
+},{
+    "SIC N": "38220",
+    "Keywords": "Treatment and disposal of hazardous waste",
+    "Subcat": "Demolition Services, Disposal"
+},{
+    "SIC N": "38310",
+    "Keywords": "Dismantling of wrecks",
+    "Subcat": "Demolition Services, Disposal"
+},{
+    "SIC N": "38320",
+    "Keywords": "Recovery of sorted materials",
+    "Subcat": "Demolition Services, Disposal"
+},{
+    "SIC N": "39000",
+    "Keywords": "",
+    "Subcat": "Demolition Services, Disposal"
+},{
+    "SIC N": "43110",
+    "Keywords": "Demolition",
+    "Subcat": "Demolition Services, Disposal"
+},{
+    "SIC N": "46770",
+    "Keywords": "Wholesale of waste and scrap",
+    "Subcat": "Demolition Services, Disposal"
+},{
+    "SIC N": "74901",
+    "Keywords": "Environmental consulting activities",
+    "Subcat": "Demolition Services, Disposal"
+},{
+    "SIC N": "41100",
+    "Keywords": "Development of building projects",
+    "Subcat": "Building Companies"
+},{
+    "SIC N": "41201",
+    "Keywords": "Construction of commercial buildings",
+    "Subcat": "Building Companies"
+},{
+    "SIC N": "41202",
+    "Keywords": "Construction of domestic buildings",
+    "Subcat": "Building Companies"
+},{
+    "SIC N": "42130",
+    "Keywords": "Construction of bridges and tunnels",
+    "Subcat": "Building Companies"
+},{
+    "SIC N": "42990",
+    "Keywords": "",
+    "Subcat": "Building Companies"
+},{
+    "SIC N": "71111",
+    "Keywords": "Architectural activities",
+    "Subcat": "Building Companies"
+},{
+    "SIC N": "71112",
+    "Keywords": "Urban planning and landscape architectural activities",
+    "Subcat": "Building Companies"
+},{
+    "SIC N": "74902",
+    "Keywords": "Quantity surveying activities",
+    "Subcat": "Building Companies"
+},{
+    "SIC N": "43310",
+    "Keywords": "Plastering",
+    "Subcat": "Restoration, Decorating Services, Painting"
+},{
+    "SIC N": "43320",
+    "Keywords": "Joinery installation",
+    "Subcat": "Restoration, Decorating Services, Painting"
+},{
+    "SIC N": "43341",
+    "Keywords": "Painting",
+    "Subcat": "Restoration, Decorating Services, Painting"
+},{
+    "SIC N": "43390",
+    "Keywords": "Building completion and finishing",
+    "Subcat": "Restoration, Decorating Services, Painting"
+},{
+    "SIC N": "43342",
+    "Keywords": "Glazing",
+    "Subcat": "Glaziers, Doors, Windows, Installation"
+},{
+    "SIC N": "43910",
+    "Keywords": "Roofing activities",
+    "Subcat": "Roof construction service"
+},{
+    "SIC N": "45111",
+    "Keywords": "Sale of new cars",
+    "Subcat": "Car Dealers"
+},{
+    "SIC N": "45112",
+    "Keywords": "Sale of used cars",
+    "Subcat": "Car Dealers"
+},{
+    "SIC N": "45190",
+    "Keywords": "Sale of other motor vehicles",
+    "Subcat": "Car Dealers"
+},{
+    "SIC N": "46220",
+    "Keywords": "Wholesale of flowers and plants",
+    "Subcat": "Garden Centre, Tools, Supplies"
+},{
+    "SIC N": "47760",
+    "Keywords": "Flowers, plants, seeds, fertilizers",
+    "Subcat": "Garden Centre, Tools, Supplies"
+},{
+    "SIC N": "47300",
+    "Keywords": "Retail sale of automotive fuel in specialised stores",
+    "Subcat": "Fuel Stations"
+},{
+    "SIC N": "47610",
+    "Keywords": "Sale of books",
+    "Subcat": "Bookstores"
+},{
+    "SIC N": "47620",
+    "Keywords": "Newspapers and stationery",
+    "Subcat": "Bookstores"
+},{
+    "SIC N": "47630",
+    "Keywords": "Music and video recordings",
+    "Subcat": "Bookstores"
+},{
+    "SIC N": "77220",
+    "Keywords": "Renting of video tapes and disks",
+    "Subcat": "Bookstores"
+},{
+    "SIC N": "47730",
+    "Keywords": "Chemist",
+    "Subcat": "Pharmacy, Chemist Services"
+},{
+    "SIC N": "47782",
+    "Keywords": "Sale by opticians",
+    "Subcat": "Eyewear, Designer Glasses, Frames"
+},{
+    "SIC N": "47799",
+    "Keywords": "Sale of second-hand goods",
+    "Subcat": "Used Goods Retailers"
+},{
+    "SIC N": "49320",
+    "Keywords": "Taxi operation",
+    "Subcat": "Taxis, Limousines, All Terrain"
+},{
+    "SIC N": "49390",
+    "Keywords": "Other passenger land transport",
+    "Subcat": "Taxis, Limousines, All Terrain"
+},{
+    "SIC N": "49410",
+    "Keywords": "Freight transport by road",
+    "Subcat": "Home Removals"
+},{
+    "SIC N": "49420",
+    "Keywords": "Removal services",
+    "Subcat": "Home Removals"
+},{
+    "SIC N": "52103",
+    "Keywords": "Operation of warehousing and storage facilities",
+    "Subcat": "Home Removals"
+},{
+    "SIC N": "49500",
+    "Keywords": "Transport via pipeline",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "50200",
+    "Keywords": "Sea and coastal freight water transport",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "50400",
+    "Keywords": "Inland freight water transport",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "52101",
+    "Keywords": "Operation of warehousing and storage facilities",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "52211",
+    "Keywords": "Operation of rail freight terminals",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "52241",
+    "Keywords": "Cargo handling for water transport activities",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "52242",
+    "Keywords": "Cargo handling for air transport activities",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "52243",
+    "Keywords": "Cargo handling for land transport activities",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "52290",
+    "Keywords": "Other transportation support activities",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "77342",
+    "Keywords": "Renting and leasing of freight water transport equipment",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "77352",
+    "Keywords": "Renting and leasing of freight air transport equipment",
+    "Subcat": "Freight Transportation"
+},{
+    "SIC N": "53100",
+    "Keywords": "Postal activities",
+    "Subcat": "Couriers, Logistics"
+},{
+    "SIC N": "53201",
+    "Keywords": "Licensed carriers",
+    "Subcat": "Couriers, Logistics"
+},{
+    "SIC N": "53202",
+    "Keywords": "Unlicensed carriers",
+    "Subcat": "Couriers, Logistics"
+},{
+    "SIC N": "55100",
+    "Keywords": "Hotels",
+    "Subcat": "Hotels"
+},{
+    "SIC N": "55201",
+    "Keywords": "Holiday centres and villages",
+    "Subcat": "Camping Sites"
+},{
+    "SIC N": "55209",
+    "Keywords": "Other collective accommodation",
+    "Subcat": "Camping Sites"
+},{
+    "SIC N": "55300",
+    "Keywords": "Trailer parks, camping grounds",
+    "Subcat": "Camping Sites"
+},{
+    "SIC N": "55202",
+    "Keywords": "Hostels",
+    "Subcat": "Hostels"
+},{
+    "SIC N": "55900",
+    "Keywords": "Other accommodation",
+    "Subcat": "Other accommodation"
+},{
+    "SIC N": "56101",
+    "Keywords": "Licenced restaurants",
+    "Subcat": "Restaurants"
+},{
+    "SIC N": "56102",
+    "Keywords": "Unlicenced restaurants and cafes",
+    "Subcat": "Restaurants"
+},{
+    "SIC N": "56302",
+    "Keywords": "Public houses and bars",
+    "Subcat": "Pubs & Bars"
+},{
+    "SIC N": "56301",
+    "Keywords": "Licenced clubs",
+    "Subcat": "Night Clubs, Karaoke"
+},{
+    "SIC N": "58120",
+    "Keywords": "Publishing of directories and mailing lists",
+    "Subcat": "Marketing, Advertising, SEO, PR"
+},{
+    "SIC N": "58210",
+    "Keywords": "Publishing of computer games",
+    "Subcat": "Marketing, Advertising, SEO, PR"
+},{
+    "SIC N": "58290",
+    "Keywords": "Other software publishing",
+    "Subcat": "Marketing, Advertising, SEO, PR"
+},{
+    "SIC N": "70210",
+    "Keywords": "Public relations and communications activities",
+    "Subcat": "Marketing, Advertising, SEO, PR"
+},{
+    "SIC N": "73110",
+    "Keywords": "Advertising agencies",
+    "Subcat": "Marketing, Advertising, SEO, PR"
+},{
+    "SIC N": "73120",
+    "Keywords": "Media representation services",
+    "Subcat": "Marketing, Advertising, SEO, PR"
+},{
+    "SIC N": "73200",
+    "Keywords": "Market research and public opinion polling",
+    "Subcat": "Marketing, Advertising, SEO, PR"
+},{
+    "SIC N": "60100",
+    "Keywords": "Radio broadcasting",
+    "Subcat": "Radio Stations, TV Companies"
+},{
+    "SIC N": "60200",
+    "Keywords": "Television programming and broadcasting activities",
+    "Subcat": "Radio Stations, TV Companies"
+},{
+    "SIC N": "63120",
+    "Keywords": "Web portals",
+    "Subcat": "Radio Stations, TV Companies"
+},{
+    "SIC N": "63910",
+    "Keywords": "News agency activities",
+    "Subcat": "Radio Stations, TV Companies"
+},{
+    "SIC N": "63990",
+    "Keywords": "Other information service activities",
+    "Subcat": "Radio Stations, TV Companies"
+},{
+    "SIC N": "61100",
+    "Keywords": "Wired telecommunications activities",
+    "Subcat": "Internet providers, Wifi Services, Mobile Network"
+},{
+    "SIC N": "61200",
+    "Keywords": "Wireless telecommunications activities",
+    "Subcat": "Internet providers, Wifi Services, Mobile Network"
+},{
+    "SIC N": "61300",
+    "Keywords": "Satellite telecommunications activities",
+    "Subcat": "Internet providers, Wifi Services, Mobile Network"
+},{
+    "SIC N": "61900",
+    "Keywords": "Other telecommunications activities",
+    "Subcat": "Internet providers, Wifi Services, Mobile Network"
+},{
+    "SIC N": "62011",
+    "Keywords": "Leisure and entertainment software development",
+    "Subcat": "IT Consulting, Web Design"
+},{
+    "SIC N": "62012",
+    "Keywords": "Business and domestic software development",
+    "Subcat": "IT Consulting, Web Design"
+},{
+    "SIC N": "62020",
+    "Keywords": "Information technology consultancy activities",
+    "Subcat": "IT Consulting, Web Design"
+},{
+    "SIC N": "62030",
+    "Keywords": "Computer facilities management activities",
+    "Subcat": "IT Consulting, Web Design"
+},{
+    "SIC N": "62090",
+    "Keywords": "Other information technology service activities",
+    "Subcat": "IT Consulting, Web Design"
+},{
+    "SIC N": "74100",
+    "Keywords": "",
+    "Subcat": "IT Consulting, Web Design"
+},{
+    "SIC N": "63110",
+    "Keywords": "Data processing, hosting and related activities",
+    "Subcat": "Web Hosting, Data Security"
+},{
+    "SIC N": "64110",
+    "Keywords": "Central banking",
+    "Subcat": "Banks, currency, money transfers"
+},{
+    "SIC N": "64191",
+    "Keywords": "Banks",
+    "Subcat": "Banks, currency, money transfers"
+},{
+    "SIC N": "64192",
+    "Keywords": "Building societies",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64201",
+    "Keywords": "Agricultural holding companies",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64202",
+    "Keywords": "Production holding companies",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64203",
+    "Keywords": "Construction holding companies",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64204",
+    "Keywords": "Distribution holding companies",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64205",
+    "Keywords": "Financial services holding companies",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64209",
+    "Keywords": "Activities of other holding companies",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64301",
+    "Keywords": "Investment trusts",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64302",
+    "Keywords": "Activities of unit trusts",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64303",
+    "Keywords": "Venture and development capital companies",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64304",
+    "Keywords": "Open-ended investment companies",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64305",
+    "Keywords": "Property unit trusts",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64306",
+    "Keywords": "Real estate investment trusts",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64991",
+    "Keywords": "",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64992",
+    "Keywords": "Factoring",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64999",
+    "Keywords": "",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "66210",
+    "Keywords": "Risk and damage evaluation",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "66300",
+    "Keywords": "Fund management activities",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "70221",
+    "Keywords": "Financial management",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "70229",
+    "Keywords": "",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "82990",
+    "Keywords": "",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "94110",
+    "Keywords": "Activities of business and employers membership organisations",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "94120",
+    "Keywords": "Activities of professional membership organisations",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "94990",
+    "Keywords": "Other membership organisations",
+    "Subcat": "Business Consultancy, Investments"
+},{
+    "SIC N": "64910",
+    "Keywords": "Financial leasing",
+    "Subcat": "Loans, Credit Unions, Pawn Shops"
+},{
+    "SIC N": "64921",
+    "Keywords": "Credit granting by non-deposit taking finance houses",
+    "Subcat": "Loans, Credit Unions, Pawn Shops"
+},{
+    "SIC N": "64929",
+    "Keywords": "",
+    "Subcat": "Loans, Credit Unions, Pawn Shops"
+},{
+    "SIC N": "82912",
+    "Keywords": "Activities of credit bureaus",
+    "Subcat": "Loans, Credit Unions, Pawn Shops"
+},{
+    "SIC N": "64922",
+    "Keywords": "Mortgage finance companies",
+    "Subcat": "Mortgage Advice Bureau"
+},{
+    "SIC N": "65110",
+    "Keywords": "Life insurance",
+    "Subcat": "Insurance Services"
+},{
+    "SIC N": "65120",
+    "Keywords": "Non-life insurance",
+    "Subcat": "Insurance Services"
+},{
+    "SIC N": "65201",
+    "Keywords": "Life reinsurance",
+    "Subcat": "Insurance Services"
+},{
+    "SIC N": "65202",
+    "Keywords": "Non-life reinsurance",
+    "Subcat": "Insurance Services"
+},{
+    "SIC N": "65300",
+    "Keywords": "Pension funding",
+    "Subcat": "Insurance Services"
+},{
+    "SIC N": "66220",
+    "Keywords": "Activities of insurance agents",
+    "Subcat": "Insurance Services"
+},{
+    "SIC N": "66290",
+    "Keywords": "",
+    "Subcat": "Insurance Services"
+},{
+    "SIC N": "66120",
+    "Keywords": "Security and commodity contracts dealing activities",
+    "Subcat": "Brokers and mediation services"
+},{
+    "SIC N": "66190",
+    "Keywords": "Activities auxiliary to financial intermediation",
+    "Subcat": "Brokers and mediation services"
+},{
+    "SIC N": "66110",
+    "Keywords": "Administration of financial markets",
+    "Subcat": "Brokers and mediation services"
+},{
+    "SIC N": "82302",
+    "Keywords": "Activities of conference organisers",
+    "Subcat": "Brokers and mediation services"
+},{
+    "SIC N": "68100",
+    "Keywords": "Buying and selling of own real estate",
+    "Subcat": "Real estate agencies"
+},{
+    "SIC N": "68201",
+    "Keywords": "Renting and operating of Housing Association real estate",
+    "Subcat": "Real estate agencies"
+},{
+    "SIC N": "68202",
+    "Keywords": "Letting and operating of conference and exhibition centres",
+    "Subcat": "Real estate agencies"
+},{
+    "SIC N": "68209",
+    "Keywords": "Other letting and operating of own or leased real estate",
+    "Subcat": "Real estate agencies"
+},{
+    "SIC N": "68310",
+    "Keywords": "Real estate agencies",
+    "Subcat": "Real estate agencies"
+},{
+    "SIC N": "68320",
+    "Keywords": "Management of real estate on a fee or contract basis",
+    "Subcat": "Real estate agencies"
+},{
+    "SIC N": "98000",
+    "Keywords": "Residents property management",
+    "Subcat": "Real estate agencies"
+},{
+    "SIC N": "69101",
+    "Keywords": "Barristers at law",
+    "Subcat": "Legal services"
+},{
+    "SIC N": "69102",
+    "Keywords": "Solicitors",
+    "Subcat": "Legal services"
+},{
+    "SIC N": "69109",
+    "Keywords": "Patent and copyright agents",
+    "Subcat": "Legal services"
+},{
+    "SIC N": "69201",
+    "Keywords": "Accounting and auditing activities",
+    "Subcat": "Bookkeeping, Accountants, Auditors"
+},{
+    "SIC N": "69202",
+    "Keywords": "Bookkeeping activities",
+    "Subcat": "Bookkeeping, Accountants, Auditors"
+},{
+    "SIC N": "69203",
+    "Keywords": "Tax consultancy",
+    "Subcat": "Bookkeeping, Accountants, Auditors"
+},{
+    "SIC N": "70100",
+    "Keywords": "",
+    "Subcat": "Bookkeeping, Accountants, Auditors"
+},{
+    "SIC N": "71121",
+    "Keywords": "Engineering design for industrial process and production",
+    "Subcat": "Engineering design"
+},{
+    "SIC N": "71122",
+    "Keywords": "Engineering related scientific and technical consulting activities",
+    "Subcat": "Engineering design"
+},{
+    "SIC N": "71129",
+    "Keywords": "",
+    "Subcat": "Engineering design"
+},{
+    "SIC N": "72200",
+    "Keywords": "Research and experimental development on social sciences and humanities",
+    "Subcat": "Interest Groups"
+},{
+    "SIC N": "74300",
+    "Keywords": "Translation and interpretation",
+    "Subcat": "Translation Services, Writing"
+},{
+    "SIC N": "82110",
+    "Keywords": "Combined office administrative service activities",
+    "Subcat": "Translation Services, Writing"
+},{
+    "SIC N": "82190",
+    "Keywords": "Photocopying, document preparation",
+    "Subcat": "Translation Services, Writing"
+},{
+    "SIC N": "82200",
+    "Keywords": "Activities of call centres",
+    "Subcat": "Translation Services, Writing"
+},{
+    "SIC N": "75000",
+    "Keywords": "Veterinary activities",
+    "Subcat": "Veterinary Clinics"
+},{
+    "SIC N": "77110",
+    "Keywords": "",
+    "Subcat": "Car Rent"
+},{
+    "SIC N": "77320",
+    "Keywords": "Renting and leasing of construction machinery",
+    "Subcat": "Construction equipment, machinery, tools"
+},{
+    "SIC N": "77400",
+    "Keywords": "Leasing of intellectual property and similar products, except copyright works",
+    "Subcat": "Recruitment agencies"
+},{
+    "SIC N": "78101",
+    "Keywords": "Motion picture, television and other theatrical casting activities",
+    "Subcat": "Recruitment agencies"
+},{
+    "SIC N": "78109",
+    "Keywords": "Employment placement agencies",
+    "Subcat": "Recruitment agencies"
+},{
+    "SIC N": "78200",
+    "Keywords": "Temporary employment agency activities",
+    "Subcat": "Recruitment agencies"
+},{
+    "SIC N": "78300",
+    "Keywords": "Human resources provision and management of human resources functions",
+    "Subcat": "Recruitment agencies"
+},{
+    "SIC N": "94200",
+    "Keywords": "Activities of trade unions",
+    "Subcat": "Recruitment agencies"
+},{
+    "SIC N": "97000",
+    "Keywords": "Households as employers of domestic personnel",
+    "Subcat": "Recruitment agencies"
+},{
+    "SIC N": "79110",
+    "Keywords": "Travel agency activities",
+    "Subcat": "Travel Agencies"
+},{
+    "SIC N": "79120",
+    "Keywords": "Tour operator activities",
+    "Subcat": "Travel Agencies"
+},{
+    "SIC N": "79901",
+    "Keywords": "Activities of tourist guides",
+    "Subcat": "Tours, Excursions"
+},{
+    "SIC N": "79909",
+    "Keywords": "Other reservation service activities n.e.c.",
+    "Subcat": "Tours, Excursions"
+},{
+    "SIC N": "80100",
+    "Keywords": "Private security activities",
+    "Subcat": "Security services, CCTV, Alarms"
+},{
+    "SIC N": "80200",
+    "Keywords": "Security systems service activities",
+    "Subcat": "Security services, CCTV, Alarms"
+},{
+    "SIC N": "80300",
+    "Keywords": "Investigation activities",
+    "Subcat": "Detective & Investigator Services"
+},{
+    "SIC N": "81300",
+    "Keywords": "Landscape service activities",
+    "Subcat": "Landscaping, Tree Services"
+},{
+    "SIC N": "82301",
+    "Keywords": "Activities of exhibition and fair organisers",
+    "Subcat": "Art Galleries, Museums, Exhibitions"
+},{
+    "SIC N": "91020",
+    "Keywords": "Museums activities",
+    "Subcat": "Art Galleries, Museums, Exhibitions"
+},{
+    "SIC N": "91030",
+    "Keywords": "Operation of historical sites and buildings",
+    "Subcat": "Art Galleries, Museums, Exhibitions"
+},{
+    "SIC N": "82911",
+    "Keywords": "Activities of collection agencies",
+    "Subcat": "Debt Collection"
+},{
+    "SIC N": "84110",
+    "Keywords": "General public administration activities",
+    "Subcat": "Consulates & Embassies"
+},{
+    "SIC N": "84120",
+    "Keywords": "Regulation of health care, education, cultural and other social services, not incl. social security",
+    "Subcat": "Consulates & Embassies"
+},{
+    "SIC N": "84130",
+    "Keywords": "Regulation of and contribution to more efficient operation of businesses",
+    "Subcat": "Consulates & Embassies"
+},{
+    "SIC N": "84210",
+    "Keywords": "Foreign affairs",
+    "Subcat": "Consulates & Embassies"
+},{
+    "SIC N": "84220",
+    "Keywords": "Defence activities",
+    "Subcat": "Consulates & Embassies"
+},{
+    "SIC N": "84230",
+    "Keywords": "Justice and judicial activities",
+    "Subcat": "Consulates & Embassies"
+},{
+    "SIC N": "84240",
+    "Keywords": "Public order and safety activities",
+    "Subcat": "Consulates & Embassies"
+},{
+    "SIC N": "84250",
+    "Keywords": "Fire service activities",
+    "Subcat": "Consulates & Embassies"
+},{
+    "SIC N": "84300",
+    "Keywords": "Compulsory social security activities",
+    "Subcat": "Consulates & Embassies"
+},{
+    "SIC N": "85100",
+    "Keywords": "Pre-primary education",
+    "Subcat": "Kindergarten & Preschools"
+},{
+    "SIC N": "85200",
+    "Keywords": "Primary education",
+    "Subcat": "Kindergarten & Preschools"
+},{
+    "SIC N": "85310",
+    "Keywords": "General secondary education",
+    "Subcat": "Schools"
+},{
+    "SIC N": "85320",
+    "Keywords": "Technical and vocational secondary education",
+    "Subcat": "Colleges"
+},{
+    "SIC N": "85410",
+    "Keywords": "Post-secondary non-tertiary education",
+    "Subcat": "Colleges"
+},{
+    "SIC N": "85421",
+    "Keywords": "First-degree level higher education",
+    "Subcat": "Universities"
+},{
+    "SIC N": "85422",
+    "Keywords": "Post-graduate level higher education",
+    "Subcat": "Universities"
+},{
+    "SIC N": "85510",
+    "Keywords": "Sports and recreation education",
+    "Subcat": "Sports Clubs, Gyms, Yoga"
+},{
+    "SIC N": "93199",
+    "Keywords": "",
+    "Subcat": "Sports Clubs, Gyms, Yoga"
+},{
+    "SIC N": "93110",
+    "Keywords": "Sports facilities",
+    "Subcat": "Sports Clubs, Gyms, Yoga"
+},{
+    "SIC N": "93120",
+    "Keywords": "Sport clubs",
+    "Subcat": "Sports Clubs, Gyms, Yoga"
+},{
+    "SIC N": "93130",
+    "Keywords": "Fitness facilities",
+    "Subcat": "Sports Clubs, Gyms, Yoga"
+},{
+    "SIC N": "85520",
+    "Keywords": "Cultural education",
+    "Subcat": "Art Schools"
+},{
+    "SIC N": "90010",
+    "Keywords": "Performing arts",
+    "Subcat": "Art Schools"
+},{
+    "SIC N": "90020",
+    "Keywords": "Support activities to performing arts",
+    "Subcat": "Art Schools"
+},{
+    "SIC N": "90030",
+    "Keywords": "Artistic creation",
+    "Subcat": "Art Schools"
+},{
+    "SIC N": "90040",
+    "Keywords": "Operation of arts facilities",
+    "Subcat": "Art Schools"
+},{
+    "SIC N": "85530",
+    "Keywords": "Driving school activities",
+    "Subcat": "Driving Schools"
+},{
+    "SIC N": "85590",
+    "Keywords": "Other education",
+    "Subcat": "Courses"
+},{
+    "SIC N": "85600",
+    "Keywords": "Educational support services",
+    "Subcat": "Study Help, Proofreading, Editing"
+},{
+    "SIC N": "86101",
+    "Keywords": "Hospital activities",
+    "Subcat": "Hospitals"
+},{
+    "SIC N": "86210",
+    "Keywords": "General medical practice activities",
+    "Subcat": "Hospitals"
+},{
+    "SIC N": "86102",
+    "Keywords": "Medical nursing home activities",
+    "Subcat": "Care Homes"
+},{
+    "SIC N": "87100",
+    "Keywords": "Residential nursing care facilities",
+    "Subcat": "Care Homes"
+},{
+    "SIC N": "87300",
+    "Keywords": "Residential care activities for the elderly and disabled",
+    "Subcat": "Care Homes"
+},{
+    "SIC N": "87900",
+    "Keywords": "Other residential care activities",
+    "Subcat": "Care Homes"
+},{
+    "SIC N": "88100",
+    "Keywords": "Social work activities without accommodation for the elderly and disabled",
+    "Subcat": "Care Homes"
+},{
+    "SIC N": "86220",
+    "Keywords": "Specialists medical practice activities",
+    "Subcat": "Medical Centres, Private Doctors"
+},{
+    "SIC N": "86900",
+    "Keywords": "",
+    "Subcat": "Medical Centres, Private Doctors"
+},{
+    "SIC N": "86230",
+    "Keywords": "Dental practice activities",
+    "Subcat": "Dentists, Orthodontist"
+},{
+    "SIC N": "87200",
+    "Keywords": "Residential care activities for learning difficulties, mental health and substance abuse",
+    "Subcat": "Drug and Alcohol Treatment, Rehabilitation"
+},{
+    "SIC N": "88910",
+    "Keywords": "Child day-care activities",
+    "Subcat": "Child Care, Babysitting"
+},{
+    "SIC N": "88990",
+    "Keywords": "Social work activities without accommodation",
+    "Subcat": "Child Care, Babysitting"
+},{
+    "SIC N": "91011",
+    "Keywords": "Library activities",
+    "Subcat": "Libraries"
+},{
+    "SIC N": "91012",
+    "Keywords": "Archives activities",
+    "Subcat": "Libraries"
+},{
+    "SIC N": "91040",
+    "Keywords": "Botanical, zoological gardens, nature reserves activities",
+    "Subcat": "Amusement parks, Wildlife Parks, Zoo, Botanical Garden, Oceanarium"
+},{
+    "SIC N": "93210",
+    "Keywords": "Activities of amusement parks",
+    "Subcat": "Amusement parks, Wildlife Parks, Zoo, Botanical Garden, Oceanarium"
+},{
+    "SIC N": "93290",
+    "Keywords": "",
+    "Subcat": "Amusement parks, Wildlife Parks, Zoo, Botanical Garden, Oceanarium"
+},{
+    "SIC N": "93191",
+    "Keywords": "Activities of racehorse owners",
+    "Subcat": "Horseback Riding"
+},{
+    "SIC N": "92000",
+    "Keywords": "Gambling and betting",
+    "Subcat": "Betting, Bookies"
+},{
+    "SIC N": "94910",
+    "Keywords": "Activities of religious organisations",
+    "Subcat": "Astrology & Spiritual Services"
+},{
+    "SIC N": "94920",
+    "Keywords": "Political organisations",
+    "Subcat": "Political Parties"
+},{
+    "SIC N": "96010",
+    "Keywords": "Washing and dry-cleaning of textile",
+    "Subcat": "Dry-cleaners, Laundry"
+},{
+    "SIC N": "96020",
+    "Keywords": "Hairdressing and other beauty treatment",
+    "Subcat": "Beauty Salons, Makeup Artists"
+},{
+    "SIC N": "96030",
+    "Keywords": "Funeral and related activities",
+    "Subcat": "Funeral Services"
+},{
+    "SIC N": "96040",
+    "Keywords": "Physical well-being activities",
+    "Subcat": "Sports Medicine, Physiotherapy Services"
+}]
